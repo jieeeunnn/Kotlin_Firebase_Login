@@ -1,5 +1,6 @@
 # Kotlin_Firebase_Login
 ### firebase Authentication_로그인
+#### firebase의 인증 기능(Authentication)을 사용하여 로그인 구현
 - 기능
   - LoginActivity에서 사용자 계정과 비밀번호 입력
   - firebase에 저장되어 있는 계정과 일치하면 로그인 성공 (Sign in)
